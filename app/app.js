@@ -1,4 +1,5 @@
 angular.module('mooApp', [
     'ngRoute',
-    'mooApp.play'
+    'mooApp.play',
+    'mooApp.work'
     ]);

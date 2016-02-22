@@ -1,0 +1,16 @@
+.box {
+    border:1px solid black;
+    width:10px;
+    display:inline-block;
+    margin-right:10px;
+    padding: 30px;
+}
+
+.output {
+    border:1px solid black;
+    width: 75px;
+    display:block;
+    margin-right:10px;
+    margin-top:10px;
+    padding: 20px;
+}
